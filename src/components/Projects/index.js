@@ -49,19 +49,16 @@ function Projects() {
                 className="mb-2 my-2 " 
                 >
                 <Card.Img 
-                variant="top" 
-                
+                variant="top"  
                 height={300}
                 src={require(`../../assets/projects/${image.name}.JPG`).default}
-
                 />
                 <Card.Body>
                     <Card.Title >{image.title}</Card.Title>
                     <Card.Subtitle className="mb-2 text-muted">{image.technology}</Card.Subtitle>
                     <Card.Text>
                     {image.description}
-                    </Card.Text>
-                    
+                    </Card.Text>                    
                     <Button 
                     className="mb-2 text-center" 
                     text="light" 
@@ -84,12 +81,8 @@ function Projects() {
                     </Button>
                 </Card.Body>
                 </Card>
-
-
-                </Col>
-             
+                </Col>             
              ))}
-
             </Row>
         </Container>
       );
