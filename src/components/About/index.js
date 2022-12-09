@@ -1,11 +1,10 @@
 import React from "react";
-import ProfilePic from '';
+import ProfilePic from '../../assets/profilepic/placeholder.png';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
 function About() {
-    //my-5 is spacing in react
   return (
     <section> 
     <Container >
@@ -16,7 +15,7 @@ function About() {
       </Row>
       <Row>
         <Col className="text-center my-1">
-          <Image src={profileImage} 
+          <Image src={ProfilePic} 
           className="my-2" 
           style={{ width: "25%" }} 
           alt="cover" 

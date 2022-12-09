@@ -9,45 +9,29 @@ import Button from 'react-bootstrap/Button';
 function Projects() {
     const images =[
         {
-            title: '',
-            name: '',
-            technology: '',
-            description: '',
-            deployedLink: "",
-            gitHubRepo: ""
+            title: 'project1',
+            name: 'Pods & Parks',
+            technology: 'HTML, CSS',
+            description: 'A application to help users find podcasts they can listen to as well as any nearby parks if they want to go for a walk or run.',
+            deployedLink: "https://adamgabo.github.io/PlayMeSpotify/",
+            gitHubRepo: "https://github.com/AdamGabo/PlayMeSpotify"
         },
         {
-            title: '',
-            name: '',
+            title: 'project2',
+            name: 'Opinionated',
             technology: '',
-            description: '',
-            deployedLink: "",
-            gitHubRepo: ""
+            description: 'A simple app allowing users to post comments, as well as give likes and dislikes to posts that they either agree with, or disagree with. The ratio of likes to dislikes is presented in the form of a graph',
+            deployedLink: "https://opinionated-scs.herokuapp.com/",
+            gitHubRepo: "https://github.com/helpvisa/opinionated"
         },
         {
-            title: '',
-            name: '',
+            title: 'project3',
+            name: 'Textual Relations',
             technology: '',
-            description: '',
-            deployedLink: "",
-            gitHubRepo: ""
+            description: 'A movie and book catalog so that users can find both book titles and films in a single app. Helpful if a user is looking for source material/adaptations of their favourite films or books.',
+            deployedLink: "https://mysterious-woodland-66616.herokuapp.com/",
+            gitHubRepo: "https://github.com/Rankin47/Project-3"
         },
-        {
-            title: '',
-            name: '',
-            technology: '',
-            description: '',
-            deployedLink: "",
-            gitHubRepo: ""
-        },
-        {
-            title: '',
-            name: '',
-            technology: '',
-            description: '',
-            deployedLink: "",
-            gitHubRepo: ""
-        }
       ];
       return (
         <Container>
