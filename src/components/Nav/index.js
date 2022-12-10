@@ -17,7 +17,7 @@ function NavPage(props) {
         <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">
             <Nav.Link href="#AboutMe" onClick={() => setNavLinkSelected('About')}>About Me</Nav.Link>
-            <Nav.Link href="#Portfolio" onClick={() => setNavLinkSelected('Portfolio')}>Projects</Nav.Link>
+            <Nav.Link href="#Projects" onClick={() => setNavLinkSelected('Portfolio')}>Projects</Nav.Link>
             <Nav.Link href="#Resume" onClick={() => setNavLinkSelected('Resume')}>Resume</Nav.Link>
             <Nav.Link href="#Contact" onClick={() => setNavLinkSelected('Contact')}>Contact</Nav.Link>
         </Nav>
