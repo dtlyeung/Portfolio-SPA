@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/Portfolio-SPA/static/css/main.8f1623bf.chunk.css",
-    "main.js": "/Portfolio-SPA/static/js/main.b379c476.chunk.js",
-    "main.js.map": "/Portfolio-SPA/static/js/main.b379c476.chunk.js.map",
+    "main.js": "/Portfolio-SPA/static/js/main.3d2e32d9.chunk.js",
+    "main.js.map": "/Portfolio-SPA/static/js/main.3d2e32d9.chunk.js.map",
     "runtime-main.js": "/Portfolio-SPA/static/js/runtime-main.da3c2f70.js",
     "runtime-main.js.map": "/Portfolio-SPA/static/js/runtime-main.da3c2f70.js.map",
     "static/css/2.c4e73993.chunk.css": "/Portfolio-SPA/static/css/2.c4e73993.chunk.css",
-    "static/js/2.59947be5.chunk.js": "/Portfolio-SPA/static/js/2.59947be5.chunk.js",
-    "static/js/2.59947be5.chunk.js.map": "/Portfolio-SPA/static/js/2.59947be5.chunk.js.map",
+    "static/js/2.46894ed8.chunk.js": "/Portfolio-SPA/static/js/2.46894ed8.chunk.js",
+    "static/js/2.46894ed8.chunk.js.map": "/Portfolio-SPA/static/js/2.46894ed8.chunk.js.map",
     "index.html": "/Portfolio-SPA/index.html",
     "static/css/2.c4e73993.chunk.css.map": "/Portfolio-SPA/static/css/2.c4e73993.chunk.css.map",
     "static/css/main.8f1623bf.chunk.css.map": "/Portfolio-SPA/static/css/main.8f1623bf.chunk.css.map",
-    "static/js/2.59947be5.chunk.js.LICENSE.txt": "/Portfolio-SPA/static/js/2.59947be5.chunk.js.LICENSE.txt",
-    "static/media/GitHub-logo.png": "/Portfolio-SPA/static/media/GitHub-logo.a34f373e.png",
+    "static/js/2.46894ed8.chunk.js.LICENSE.txt": "/Portfolio-SPA/static/js/2.46894ed8.chunk.js.LICENSE.txt",
+    "static/media/GitHub-logo.a34f373e.png": "/Portfolio-SPA/static/media/GitHub-logo.a34f373e.png",
     "static/media/MongoDB_Logo.svg": "/Portfolio-SPA/static/media/MongoDB_Logo.acec900c.svg",
     "static/media/Yeung_Daniel_2022.583734f2.pdf": "/Portfolio-SPA/static/media/Yeung_Daniel_2022.583734f2.pdf",
     "static/media/index.css": "/Portfolio-SPA/static/media/background.ded0d431.jpg",
     "static/media/bootstrap-5.svg": "/Portfolio-SPA/static/media/bootstrap-5.98585727.svg",
+    "static/media/gitHub-logo.png": "/Portfolio-SPA/static/media/gitHub-logo.a34f373e.png",
     "static/media/graphql-logo.png": "/Portfolio-SPA/static/media/graphql-logo.5abef1eb.png",
     "static/media/heroku-logo.png": "/Portfolio-SPA/static/media/heroku-logo.961bdfde.png",
     "static/media/html-css.png": "/Portfolio-SPA/static/media/html-css.fdd549b9.png",
@@ -34,8 +35,8 @@
   "entrypoints": [
     "static/js/runtime-main.da3c2f70.js",
     "static/css/2.c4e73993.chunk.css",
-    "static/js/2.59947be5.chunk.js",
+    "static/js/2.46894ed8.chunk.js",
     "static/css/main.8f1623bf.chunk.css",
-    "static/js/main.b379c476.chunk.js"
+    "static/js/main.3d2e32d9.chunk.js"
   ]
 }
