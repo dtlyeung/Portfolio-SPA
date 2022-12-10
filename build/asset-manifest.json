@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fb26eff8.css",
+    "main.js": "/static/js/main.e76ab6c9.js",
+    "static/media/placeholder.png": "/static/media/placeholder.f156b7d5ac7a515d0d41.png",
+    "static/media/webpack.png": "/static/media/webpack.3b7bf087cbac835e6f7d.png",
+    "static/media/background.jpg": "/static/media/background.ded0d43181ea2331cbdb.jpg",
+    "static/media/mong-db-log.png": "/static/media/mong-db-log.111605d684f5a76e1314.png",
+    "static/media/Yeung_Daniel_2022.pdf": "/static/media/Yeung_Daniel_2022.583734f291f4e086d0bc.pdf",
+    "static/media/graphql-logo.png": "/static/media/graphql-logo.5abef1eb2e6d90f99d95.png",
+    "static/media/insomnia-icon.png": "/static/media/insomnia-icon.ee031f232ea934a1036d.png",
+    "static/media/nodejs-1-logo.png": "/static/media/nodejs-1-logo.bc4b43cd5f20ba305059.png",
+    "static/media/html-css.png": "/static/media/html-css.fdd549b973755aa0351e.png",
+    "static/media/MongoDB_Logo.svg": "/static/media/MongoDB_Logo.acec900c1d2a92c15c4f.svg",
+    "static/media/linkedIn-logo.png": "/static/media/linkedIn-logo.238ec218997ad981225e.png",
+    "static/media/GitHub-logo.png": "/static/media/GitHub-logo.a34f373e662928c21416.png",
+    "static/media/local-storage-api.jpg": "/static/media/local-storage-api.15a6a95c184f0f5ee840.jpg",
+    "static/media/mong-db-logo.png": "/static/media/mong-db-logo.8e49f7e81c8b3dc78401.png",
+    "static/media/sequelize-logo.png": "/static/media/sequelize-logo.aeca8b075254d4c733d0.png",
+    "static/media/heroku-logo.png": "/static/media/heroku-logo.961bdfdec0d6f4bae2c7.png",
+    "static/media/bootstrap-5.svg": "/static/media/bootstrap-5.98585727bcfe0b155564.svg",
+    "static/media/logo-javascript.svg": "/static/media/logo-javascript.00f3e5cf8bcf4ae623b3.svg",
+    "index.html": "/index.html",
+    "main.fb26eff8.css.map": "/static/css/main.fb26eff8.css.map",
+    "main.e76ab6c9.js.map": "/static/js/main.e76ab6c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb26eff8.css",
+    "static/js/main.e76ab6c9.js"
+  ]
+}
