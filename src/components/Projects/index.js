@@ -53,7 +53,7 @@ function Projects() {
                 <Card.Img 
                 variant="top"  
                 height={300}
-                src={require(`../../assets/projects/${image.name}.JPG`).default}
+                src={require(`../../assets/projects/${image.name}.PNG`).default}
                 />
                 <Card.Body>
                     <Card.Title >{image.title}</Card.Title>
