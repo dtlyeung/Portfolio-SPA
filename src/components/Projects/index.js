@@ -33,6 +33,7 @@ function Projects() {
             gitHubRepo: "https://github.com/Rankin47/Project-3"
         },
       ];
+
       return (
         <Container>
             <Card align="center">
@@ -40,6 +41,7 @@ function Projects() {
                    <h2> Full Stack Web Developer</h2>
                 </Card.Body>
             </Card>
+            
             <Row className="justify-content-md-center">
              {images.map((image, i) => (
                 <Col onClick={() => console.log("test")} 

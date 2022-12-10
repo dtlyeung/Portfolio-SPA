@@ -1,18 +1,25 @@
 {
-    "homepage": "https://dtlyeung.github.io/Portfolio-SPA",
-    "name": "portfolio-spa",
+    "name": "daniel-yeung-portfolio",
     "version": "1.0.0",
+    "homepage": "https://dtlyeung.github.io/Portfolio-SPA//",
     "dependencies": {
-        "bootstrap": "^5.2.3",
-        "react": "",
-        "react-bootstrap": "2.7.0",
-        "react-dom": "18.2.0",
-        "react-scripts": "5.0.1"
+        "@testing-library/jest-dom": "^5.12.0",
+        "@testing-library/react": "^11.2.6",
+        "@testing-library/user-event": "^12.8.3",
+        "bootstrap": "^4.6.0",
+        "emailjs-com": "^3.1.0",
+        "react": "^17.0.2",
+        "react-bootstrap": "^1.5.2",
+        "react-dom": "^17.0.2",
+        "react-scripts": "4.0.3",
+        "web-vitals": "^1.1.1"
     },
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",
-        "predeploy": "npm run build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject",
+        "predeploy": "npm run build && gh-pages -d build",
         "deploy": "gh-pages -d build"
     },
     "browserslist": {

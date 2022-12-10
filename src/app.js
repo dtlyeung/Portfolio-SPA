@@ -3,7 +3,7 @@ import './app.css';
 import 'bootstrap/dist/css/bootstrap.min.css'
 import NavPage from './components/Nav';
 import About from './components/About';
-import Portfolio from './components/Projects';
+import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Resume from './components/Resume';
 import Footer from './components/Footer';
@@ -15,8 +15,8 @@ function App() {
         switch (navLinkSelected) {
             case 'About':
                 return <About />;
-            case 'Portfolio':
-                return <Portfolio />;
+            case 'Projects':
+                return <Projects />;
             case 'Contact':
                 return <Contact />;
             case 'Resume':

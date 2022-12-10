@@ -1,8 +1,14 @@
 import React from "react";
 import ProfilePic from '../../assets/profilepic/placeholder.png';
+import gitHubLogo from "../../assets/icons/GitHub-logo.png";
+import linkedIn from "../../assets/icons/linkedIn-logo.png";
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import Card from 'react-bootstrap/Card';
+import Button from 'react-bootstrap/Button';
+import Image from 'react-bootstrap/Image';
+
 
 function About() {
   return (

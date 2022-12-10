@@ -38,7 +38,6 @@ const iconsFrontEnd =[
     {
         name: 'webpack.png'
     }
-
 ];
 
 function Resume() {
